@@ -29,53 +29,18 @@ http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru@SD",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="All",Рен ТВ
-https://tinyurl.com/aleks-u-romki-2/128/index.m3u8
-#EXTINF:-1 group-title="All",НТВ
-https://tinyurl.com/aleks-u-romki-2/213/index.m3u8
-#EXTINF:-1 group-title="All",Звезда
-https://tinyurl.com/aleks-u-romki-2/544/index.m3u8
-#EXTINF:-1 group-title="All",RTVi
-https://tinyurl.com/aleks-u-romki-2/2086/index.m3u8
 #EXTINF:-1 group-title="All",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 group-title="All",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1 group-title="All",TV8 Moldova
-https://tinyurl.com/aleks-u-romki-2/2454/index.m3u8
-#EXTINF:-1 group-title="All",Jurnal TV
-https://tinyurl.com/aleks-u-romki-2/2446/index.m3u8
-#EXTINF:-1 group-title="All",PRO TV Chisinau
-https://tinyurl.com/aleks-u-romki-2/2456/index.m3u8
-#EXTINF:-1 group-title="All",N4
-https://tinyurl.com/aleks-u-romki-2/2460/index.m3u8
 #EXTINF:-1 group-title="All",Privesc eu
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 group-title="All",ТНТ4
-https://tinyurl.com/aleks-u-romki-2/104/index.m3u8
-#EXTINF:-1 group-title="All",СТС
-https://tinyurl.com/aleks-u-romki-2/506/index.m3u8
-#EXTINF:-1 group-title="All",Че
-https://tinyurl.com/aleks-u-romki-2/9101/index.m3u8
-#EXTINF:-1 group-title="All",Красная Линия
-http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
-#EXTINF:-1 group-title="Romania",DIGI 24
-https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 group-title="Romania",Antena 1 Ro
-https://tinyurl.com/aleks-u-romki-2/7002/index.m3u8
-#EXTINF:-1 group-title="Romania",Antena 3
-https://tinyurl.com/aleks-u-romki-2/7003/index.m3u8
-#EXTINF:-1 group-title="Romania",MetropolaTV
-https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1 group-title="unsorted",Чижик
-https://tinyurl.com/aleks-u-romki-2/14034/index.m3u8
 #EXTINF:-1 group-title="unsorted",Tv nord Balti
 https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
-#EXTINF:-1 group-title="unsorted",Bizim Dalgamiz / Canal 5
-http://188.138.130.175:5004/
 #EXTINF:-1 group-title="unsorted",Zoopark
 http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 group-title="unsorted",Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="unsorted",Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
+
