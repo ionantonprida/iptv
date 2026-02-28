@@ -49,24 +49,8 @@ https://tinyurl.com/aleks-u-romki-2/2446/index.m3u8
 https://tinyurl.com/aleks-u-romki-2/2456/index.m3u8
 #EXTINF:-1 group-title="All",N4
 https://tinyurl.com/aleks-u-romki-2/2460/index.m3u8
-#EXTINF:-1 group-title="All",Exclusiv TV
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 group-title="All",Cinema 1
-https://tinyurl.com/aleks-u-romki-2/2447/index.m3u8
-#EXTINF:-1 group-title="All",Realitatea Live
-https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 group-title="All",Soroca TV
-http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 group-title="All",Privesc eu
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 group-title="All",Radio Moldova LIVE
-https://radiolive.trm.md/hls_rma/actualitati.m3u8
-#EXTINF:-1 group-title="All",Noroc TV
-https://live.noroc.tv/noroc/bitrate_480p.m3u8
-#EXTINF:-1 group-title="All",Busuioc TV
-https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
-#EXTINF:-1 group-title="All",Tezaur Tv
-http://77.89.221.150/tezaur/index.m3u8
 #EXTINF:-1 group-title="All",Пятница
 https://tinyurl.com/aleks-u-romki-2/15472/index.m3u8
 #EXTINF:-1 group-title="All",ТВЦ
@@ -299,4 +283,5 @@ https://tinyurl.com/aleks-u-romki-2/201/index.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="unsorted",Моя Планета
 https://tinyurl.com/aleks-u-romki-2/117/index.m3u8
+
 
