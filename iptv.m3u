@@ -9,8 +9,6 @@ https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Channel24.ua" group-title="Ukraina",24 Канал (1080p)
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Moldova2.md" group-title="Moldova",Moldova 2 (1080p)
-https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md" group-title="Moldova",Realitatea Live (406p)
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="General",Antena 1 (720p) [Not 24/7]
@@ -39,8 +37,6 @@ https://tinyurl.com/aleks-u-romki-2/213/index.m3u8
 https://tinyurl.com/aleks-u-romki-2/544/index.m3u8
 #EXTINF:-1 group-title="All",RTVi
 https://tinyurl.com/aleks-u-romki-2/2086/index.m3u8
-#EXTINF:-1 group-title="All",ТСВ
-https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="All",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 group-title="All",Moldova 2
@@ -53,10 +49,6 @@ https://tinyurl.com/aleks-u-romki-2/2446/index.m3u8
 https://tinyurl.com/aleks-u-romki-2/2456/index.m3u8
 #EXTINF:-1 group-title="All",N4
 https://tinyurl.com/aleks-u-romki-2/2460/index.m3u8
-#EXTINF:-1 group-title="All",TVR Moldova
-https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
-#EXTINF:-1 group-title="All",Vocea Basarabiei
-https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 #EXTINF:-1 group-title="All",Exclusiv TV
 http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 group-title="All",Cinema 1
@@ -307,3 +299,4 @@ https://tinyurl.com/aleks-u-romki-2/201/index.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="unsorted",Моя Планета
 https://tinyurl.com/aleks-u-romki-2/117/index.m3u8
+
