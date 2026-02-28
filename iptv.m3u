@@ -21,18 +21,12 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="" group-title="News",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-id="360.ru@SD",360° (1080p)
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru@SD",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="KulinarTV.ru@SD",Kulinar TV
-https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD",Russkiy Detektiv
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
-#EXTINF:-1 tvg-id="UniverTV.ru@SD",Univer TV (1080p)
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@SD",КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru@SD",Наука
